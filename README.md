@@ -5,7 +5,7 @@
 
 Responsive layout using Flexbox and CSS Grid
 
-Sidebar navigation (Home, Search, Your Library)
+Sidebar navigation (Home, about)
 
 Playlist and album sections
 
